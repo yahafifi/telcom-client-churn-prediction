@@ -7,3 +7,5 @@ flask
 joblib
 scikit-learn
 gunicorn
+matplotlib
+seaborn
